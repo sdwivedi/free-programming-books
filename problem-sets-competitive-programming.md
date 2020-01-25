@@ -2,6 +2,7 @@
 
 * [Competitive Programming](#competitive-programming)
 * [Data science](#data-science)
+* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
@@ -9,6 +10,7 @@
 
 * [4Clojure](http://www.4clojure.com)
 * [A2 Online Judge](https://a2oj.com)
+* [Caribbean Online Judge](http://coj.uci.cu)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
 * [Codecombat](https://codecombat.com)
@@ -24,6 +26,7 @@
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
+* [LeetCode](https://leetcode.com)
 * [Microcorruption](https://microcorruption.com/login)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Topcoder](https://www.topcoder.com)
@@ -32,6 +35,11 @@
 ### Data science
 
 * [Kaggle](https://www.kaggle.com)
+
+
+### Information security
+
+* [CTFtime](https://ctftime.org)
 
 
 ### Problem Sets
@@ -43,7 +51,6 @@
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codeforces](http://codeforces.com/problemset)
-* [CodeHunt](https://www.codehunt.com)
 * [Codility](https://codility.com/programmers/)
 * [Coding Bat](http://codingbat.com/java)
 * [Exercism](http://exercism.io)
@@ -60,7 +67,7 @@
 * [PEG Judge](http://wcipeg.com)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
-* [ProblemBook.NET](http://problembook.net/content/en/index.html)
+* [ProblemBook.NET](https://github.com/AndreyAkinshin/ProblemBook.NET)
 * [Project Euler](https://projecteuler.net)
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)
